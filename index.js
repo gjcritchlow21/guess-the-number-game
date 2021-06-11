@@ -169,7 +169,7 @@ async function humanGuesser() {
         console.log("Too High, guess again!");
       } else {
         console.log(
-          "Yay, you have guess my number! YOu get to live! er I mean good job!"
+          "Yay, you have guessed my number! You get to live! er, I mean good job!"
         );
         process.exit();
       }
